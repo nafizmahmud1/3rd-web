@@ -52,3 +52,34 @@ section{
     color: white;
     font-weight: bold;
 }
+.huf-width1{
+    width: 90%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.huf-width2{
+    width:100% ;
+    float: right;
+}
+.back-line{
+    color:red;
+}
+.singel-exprince{
+    box-shadow: 10px 10px 40px red;
+    border-radius: 5px;
+    height: 80%;
+}
+#full-stake{
+    border-left:7ps;
+    color: lime;
+
+}
+#bacl-pro{
+    border-left: 7px;
+    color: blueviolet;
+}
+footer{
+    text-align: center;
+    color: brown;
+}
