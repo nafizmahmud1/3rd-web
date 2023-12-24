@@ -1,0 +1,54 @@
+body{
+    margin: 0%;
+    font-family: 'Inter', sans-serif;
+font-family: 'Merriweather', serif;
+}
+h1
+{font-size: 50px;}
+.tvc{
+    color: mediumslateblue;
+}
+.huf-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.huf-width img{
+    width: 70%;
+}
+.top-banner{
+    
+    background-image:url( "top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.button{
+    text-decoration: none;
+    background-color: greenyellow;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+
+}
+,h2{
+    font-size: 40px;
+    color: blue;
+
+}
+.h3{
+    font-size: 30px;
+    color: aqua;
+}
+.button2{
+    text-decoration: none;
+    background-color: rebeccapurple;
+    padding: 12px 22px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
